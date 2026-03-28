@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+coverage
+__tests__
+*.test.ts
+*.test.tsx
+README.md
+.DS_Store
